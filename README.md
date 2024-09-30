@@ -10,7 +10,7 @@ Discord Screenshot Sender is a Minecraft mod that allows you to easily send scre
 
 ## Installation
 1. **Install Fabric**: Ensure you have the Fabric Mod Loader installed.
-2. **Download the Mod**: Download the latest mod file from the [Releases](https://github.com/yourusername/yourmod/releases) section.
+2. **Download the Mod**: Download the latest mod file from the [Releases](https://github.com/jstin9/discord-screenshot-sender/releases) section.
 3. **Add to Mods Folder**: Place the downloaded `.jar` file into your Minecraft mods folder.
 4. **Run Minecraft**: Launch Minecraft using the Fabric profile.
 
