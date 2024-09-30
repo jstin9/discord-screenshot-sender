@@ -18,16 +18,6 @@ Discord Screenshot Sender is a Minecraft mod that allows you to easily send scre
 You can configure the mod in the Mod Menu, where you can input your Discord webhook token and adjust settings.
 
 ## Dependencies
-- **Fabric API**
-- **Cloth Config API**
-- **Mod Menu**
-
-## Localization
-The mod supports localization for multiple languages. Ensure you have the correct language files in the resource pack for your preferred language.
-
-## Contact
-For issues, feature requests, or contributions, feel free to open an issue or pull request on GitHub!
-
----
-
-Happy gaming and sharing!
+- [Fabric API](https://fabricmc.net/use/)
+- [Cloth Config API](https://github.com/shedaniel/cloth-config)
+- [Mod Menu](https://github.com/TerraformersMC/ModMenu)
