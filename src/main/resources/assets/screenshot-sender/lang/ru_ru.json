@@ -1,0 +1,11 @@
+{
+  "config.screenshot_sender.title": "Настройки Screenshot Sender",
+  "config.screenshot_sender.general": "Общие",
+  "config.screenshot_sender.discord_token": "Токен Discord URL",
+  "config.screenshot_sender.discord_token.tooltip": "Введите ваш токен для Discord вебхука",
+  "config.screenshot_sender.delete_after_sending": "Удалить скриншот после отправки",
+  "error.screenshot_sender.missing_token": "Токен Discord отсутствует! Пожалуйста, введите действительный токен.",
+  "error.screenshot_sender.invalid_token": "Неверный токен Discord! Не удалось отправить скриншот.",
+  "success.screenshot_sender.screenshot_sent": "Скриншот успешно отправлен!"
+}
+

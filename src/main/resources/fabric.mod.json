@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "screenshot-sender",
+	"version": "${version}",
+	"name": "Discord Screenshot Sender",
+	"description": "Discord Screenshot Sender allows you to send your Minecraft screenshots directly to a Discord channel with ease.",
+	"authors": [
+		"jstn9",
+		"Peas4nt"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/screenshot-sender/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"com.jstn9.ScreenshotSender"
+		],
+		"modmenu": [ "com.jstn9.ModMenuIntegration" ]
+	},
+	"mixins": [
+		"screenshot-sender.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.8",
+		"minecraft": ">=1.21 <=1.21.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"cloth-config": "*",
+		"modmenu": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
