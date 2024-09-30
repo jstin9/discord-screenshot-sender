@@ -27,7 +27,7 @@ public class ModMenuIntegration implements ModMenuApi {
 
         general.addEntry(entryBuilder
                 .startStrField(Text.translatable("config.screenshot_sender.discord_token"), config.getDiscordTokenURL())
-                .setDefaultValue(config.getDiscordTokenURL())
+                .setDefaultValue("")
                 .setSaveConsumer(newValue -> {
                     config.setDiscordTokenURL(newValue);
                 })
