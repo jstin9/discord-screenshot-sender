@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "screenshot-sender",
+	"id": "discord-screenshot-sender",
 	"version": "${version}",
 	"name": "Discord Screenshot Sender",
 	"description": "Discord Screenshot Sender allows you to send your Minecraft screenshots directly to a Discord channel with ease.",
@@ -18,7 +18,7 @@
 		"client": [
 			"com.jstn9.ScreenshotSender"
 		],
-		"modmenu": [ "com.jstn9.ModMenuIntegration" ]
+		"modmenu": [ "com.jstn9.ScreenshotSenderModMenuIntegration" ]
 	},
 	"mixins": [
 		"screenshot-sender.mixins.json"
