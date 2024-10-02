@@ -1,4 +1,4 @@
-<a href="https://modrinth.com/mod/discord-webhook"><img src="https://img.shields.io/badge/dynamic/json?color=158000&label=downloads&prefix=+%20&query=downloads&url=https://api.modrinth.com/v2/project/discord-screenshot-sender&logo=modrinth"></a>
+<a href="https://modrinth.com/mod/discord-screenshot-sender"><img src="https://img.shields.io/badge/dynamic/json?color=158000&label=downloads&prefix=+%20&query=downloads&url=https://api.modrinth.com/v2/project/discord-screenshot-sender&logo=modrinth"></a>
 # Discord Screenshot Sender
 
 Discord Screenshot Sender is a Minecraft mod that allows you to easily send screenshots directly to your Discord channel. This mod streamlines the process of capturing and sharing your in-game moments with friends or the community.
