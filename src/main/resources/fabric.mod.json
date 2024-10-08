@@ -20,13 +20,9 @@
 		],
 		"modmenu": [ "com.jstn9.ScreenshotSenderModMenuIntegration" ]
 	},
-	"mixins": [
-		"screenshot-sender.mixins.json"
-	],
 	"depends": {
-		"fabricloader": ">=0.15.8",
-		"minecraft": ">=1.21 <=1.21.1",
-		"java": ">=17",
+		"fabricloader": ">=0.12.13",
+		"minecraft": ">=1.20 <=1.20.6",
 		"fabric-api": "*",
 		"cloth-config": "*",
 		"modmenu": "*"
