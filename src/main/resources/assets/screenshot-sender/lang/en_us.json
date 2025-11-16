@@ -1,10 +1,12 @@
 {
-  "config.screenshot_sender.title": "Screenshot Sender Settings",
-  "config.screenshot_sender.general": "General",
-  "config.screenshot_sender.discord_token": "Discord Token URL",
-  "config.screenshot_sender.discord_token.tooltip": "Enter your Discord webhook token",
-  "config.screenshot_sender.delete_after_sending": "Delete Screenshot After Sending",
-  "error.screenshot_sender.missing_token": "Discord token is missing! Please provide a valid token.",
-  "error.screenshot_sender.invalid_token": "Invalid Discord token! Unable to send the screenshot.",
-  "success.screenshot_sender.screenshot_sent": "Screenshot sent successfully!"
+  "key.screenshot_sender.take_and_send": "Take Screenshot and Send to Discord",
+  "category.screenshot_sender": "Screenshot Sender",
+  "config.screenshot_sender.title": "Screenshot Sender Configuration",
+  "config.screenshot_sender.general": "General Settings",
+  "config.screenshot_sender.discord_token": "Discord Webhook URL",
+  "config.screenshot_sender.discord_token.tooltip": "Enter your Discord webhook URL here",
+  "config.screenshot_sender.delete_after_sending": "Delete screenshot after sending",
+  "error.screenshot_sender.missing_token": "Discord webhook URL is not configured",
+  "error.screenshot_sender.invalid_token": "Invalid Discord webhook URL or send failed",
+  "success.screenshot_sender.screenshot_sent": "Screenshot sent to Discord successfully"
 }
